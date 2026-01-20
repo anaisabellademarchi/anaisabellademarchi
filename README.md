@@ -5,7 +5,7 @@
 Me chamo Ana Isabella Demarchi Calegari, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio em 2022. 
 Atualmente, estou cursando o 7° semestre em Engenharia da Computação na Universidade de Sorocaba (UNISO).
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
