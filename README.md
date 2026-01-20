@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👩🏻‍💻 Ana Isabella Demarchi Calegari
 
-<!--
-**anaisabellademarchi/anaisabellademarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora de Software`**
 
-Here are some ideas to get you started:
+Me chamo Ana Isabella Demarchi Calegari, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio em 2022. 
+Atualmente, estou cursando o 7° semestre em Engenharia da Computação na Universidade de Sorocaba (UNISO).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+## 📂 Projetos em Destaque
+
+- **Projetos acadêmicos** desenvolvidos durante a graduação  
+- **Sistemas simples com CRUD** utilizando PHP e MySQL  
+- **Projeto DreamTrip** — plataforma voltada para organização e venda de excursões  
+
+## 🎯 Objetivo Profissional
+
+Busco uma **vaga de estágio em TI**, onde eu possa:
+- Aprender na prática
+- Desenvolver minhas habilidades técnicas
+- Contribuir com a equipe e crescer profissionalmente
+
+## 📫 Contato
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/ana-isabella-demarchi-5b0a25269/*  
+- 🐙 GitHub: *https://github.com/anaisabellademarchi*  
+
+
