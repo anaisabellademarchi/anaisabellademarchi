@@ -60,6 +60,6 @@ Busco uma **vaga de estágio em TI**, onde eu possa:
 ## 📫 Contato
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/ana-isabella-demarchi-5b0a25269/*  
-- 🐙 GitHub: *https://github.com/anaisabellademarchi*  
+- 🐙 Email: *anaisabellademarchi52@gmail.com*  
 
 
