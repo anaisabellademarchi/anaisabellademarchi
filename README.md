@@ -46,15 +46,15 @@ Atualmente, estou cursando o 7° semestre em Engenharia da Computação na Unive
 
 ## 📂 Projetos em Destaque
 
-- **Projetos acadêmicos** Desenvolvidos durante a graduação  
-- **Projeto DreamTrip** — Plataforma voltada para organização e venda de excursões  
+- **Projetos acadêmicos** Desenvolvidos durante a graduação;
+- **Projeto DreamTrip** — Plataforma voltada para organização e venda de excursões.  
 
 ## 🎯 Objetivo Profissional
 
 Busco uma **vaga de estágio em TI**, onde eu possa:
-- Aprender na prática
-- Desenvolver minhas habilidades técnicas
-- Contribuir com a equipe e crescer profissionalmente
+- Aprender na prática;
+- Desenvolver minhas habilidades técnicas;
+- Contribuir com a equipe e crescer profissionalmente.
 
 ## 📫 Contato
 
