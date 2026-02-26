@@ -46,9 +46,8 @@ Atualmente, estou cursando o 7° semestre em Engenharia da Computação na Unive
 
 ## 📂 Projetos em Destaque
 
-- **Projetos acadêmicos** desenvolvidos durante a graduação  
-- **Sistemas simples com CRUD** utilizando PHP e MySQL  
-- **Projeto DreamTrip** — plataforma voltada para organização e venda de excursões  
+- **Projetos acadêmicos** Desenvolvidos durante a graduação  
+- **Projeto DreamTrip** — Plataforma voltada para organização e venda de excursões  
 
 ## 🎯 Objetivo Profissional
 
